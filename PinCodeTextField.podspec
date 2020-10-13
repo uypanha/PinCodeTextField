@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
 
   s.author       = { "Alex Tkachenko" => "tkach2004@gmail.com" }
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "9.0"
 
   s.source       = { :git => "https://github.com/tkach/PinCodeTextField.git", :tag => "#{s.version}" }
   s.source_files  = ["Pod/*.{swift}", "Pod/**/*.{swift}" ]
